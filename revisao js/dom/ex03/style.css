@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans serif;
+}
+
+#msg{
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.oculto{
+    display: none;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

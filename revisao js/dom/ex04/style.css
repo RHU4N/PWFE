@@ -1,0 +1,13 @@
+#meuDiv{
+    width: 20vw;
+    height: 20vh;
+    background-color: lightblue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+}
